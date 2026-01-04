@@ -9,7 +9,7 @@ The dataset files are available for download at the following link:
 https://drive.google.com/file/d/1VuI1NnPzYlhHIMBy-2nBegFoQTATbf8K/view?usp=sharing
 
 After downloading, extract the files and place them in a local folder.
-Update the paths in the notebookaccordingly.
+Update the paths in the notebook accordingly.
 
 ---
 
