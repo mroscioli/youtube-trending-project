@@ -2,8 +2,16 @@
 
 This folder documents the expected location and structure of the dataset used in the project.
 
-Due to file size and licensing considerations, the dataset files are **not included**
-in this GitHub repository.
+##  Dataset download
+
+The dataset files are available for download at the following link:
+
+https://drive.google.com/file/d/1VuI1NnPzYlhHIMBy-2nBegFoQTATbf8K/view?usp=sharing
+
+After downloading, extract the files and place them in a local folder.
+If the files are placed in `data/trendingYT/`, the notebook can be executed
+without modifying file paths. Otherwise, update the paths in the notebook
+accordingly.
 
 ---
 
