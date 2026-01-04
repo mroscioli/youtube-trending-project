@@ -9,21 +9,9 @@ The dataset files are available for download at the following link:
 https://drive.google.com/file/d/1VuI1NnPzYlhHIMBy-2nBegFoQTATbf8K/view?usp=sharing
 
 After downloading, extract the files and place them in a local folder.
-If the files are placed in `data/trendingYT/`, the notebook can be executed
-without modifying file paths. Otherwise, update the paths in the notebook
-accordingly.
+Update the paths in the notebookaccordingly.
 
 ---
-
-##  Recommended structure
-
-The notebook assumes that dataset files are placed in the following folder:
-data/trendingYT/
-
-This is a **conventional project structure** adopted to improve clarity and
-reproducibility.  
-Users may place the dataset files in a different location and update the file paths
-inside the notebook accordingly.
 
 ##  Expected files
 
@@ -70,6 +58,5 @@ The dataset consists of two types of files for each country:
 
 1. Download the YouTube Trending Videos dataset from its original source.
 2. Place the dataset files in a local folder.
-3. If the files are placed in `data/trendingYT/`, the notebook can be executed
-   without modifying file paths.
-4. Otherwise, update the dataset paths inside the notebook accordingly.
+3. Update the dataset paths inside the notebook accordingly.
+4. Run
