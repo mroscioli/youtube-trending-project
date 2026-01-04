@@ -42,9 +42,8 @@ The dataset consists of YouTube trending videos collected for the following coun
 - RU – Russia  
 - US – United States  
 
-For each country, the dataset includes:
-- a CSV file with trending video information
-- a JSON file containing the video category mapping
+The dataset is not included in the repository and can be downloaded from an external link (see `data/README.md`).
+
 
 ---
 
