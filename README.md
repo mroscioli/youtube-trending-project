@@ -40,3 +40,13 @@ The dataset consists of YouTube trending videos collected for the following coun
 For each country, the dataset includes:
 - a CSV file with trending video information
 - a JSON file containing the video category mapping
+
+---
+
+##  Technologies Used
+
+- Python 3
+- Jupyter Notebook
+- pandas
+- numpy
+- json
