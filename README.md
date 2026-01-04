@@ -2,7 +2,12 @@
 
 This repository contains a data analysis project developed as a **Jupyter Notebook**, focused on the analysis of YouTube trending videos across multiple countries.
 
-The project has been developed according to the following instructions:
+---
+
+##  Project Objectives
+
+The notebook addresses the following tasks:
+
 1. Create a single dataframe with the concatenation of all input csv files, adding a column called country
 2. Extract all videos that have no tag.
 3. For each channel, determine the total number of views
